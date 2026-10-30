@@ -1,0 +1,15 @@
+{
+  "train_accuracy": 1.0,
+  "n_samples": 1492,
+  "labels": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "i love you"
+  ],
+  "mode": "static"
+}
